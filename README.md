@@ -11,8 +11,6 @@ ihrer Position im Farbkreuz. Bewegen sich 2 Zellen in einem Tick in die gleiche 
 Durch klicken auf Speichern wird der aktuelle Zustand als (sehr sehr sehr langer) Text in die Zwischenablage kopiert. Noch ist dafür kein visuelles Feedback implementiert, aber
 es funktioniert. Genauso kann durch klicken auf Import die Zwischenablage importiert werden. Auch hier ist noch kein Feedback implementiert.
 
-In examples können die Beispiele kopiert und durch Import aus dem Clipboard eingefügt werden. Es dürfen keine Zeichen außer den Zahlen kopiert werden.
-
 
 
 
