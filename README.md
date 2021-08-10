@@ -1,8 +1,8 @@
 # 67_times_67
 
-		/////////////////
-		///  Inhalt  ///
-		/////////////////
+
+Inhalt
+
 
 Durch das Klicken in das eingerahmte Feld können Zellen aktiviert und deaktiviert werden. Die Farbe der Zelle wird durch das Farbkreuz rechts bestimmt. Durch den RGB Regler kann
 eine ausgewählte Farbe verändert werden. Bestehende Zellen werden dabei mitverändert.
@@ -13,9 +13,11 @@ es funktioniert. Genauso kann durch klicken auf Import die Zwischenablage import
 
 In examples können die Beispiele kopiert und durch Import aus dem Clipboard eingefügt werden. Es dürfen keine Zeichen außer den Zahlen kopiert werden.
 
-		///////////////////////
-		///Eigenanteil///
-		//////////////////////
+
+
+
+Eigenanteil
+
 
 Der Aufbau der Zellen in einem Array bestehend aus einer x und y Komponente durch zweidimensionale For-Schleifen, das PostRendern der Umrandung des Feldes, die
 SetStatus-Funktion in Cell.cs und die Funktionen ClearCells(), RandomAliveCell() und RandomCellColor() sind ursprünglich aus folgendem Tutorial:
@@ -27,9 +29,9 @@ Codes aus dem Tutorial noch enthalten sind.
 
 
 
-		/////////////////
-		///Aufbau///
-		/////////////////
+
+Aufbau
+
 
 In Unity selbst bestehen zu Beginn der GameManager, auf dem das GameManager.cs liegt, einer Kamera und den UI Elementen. Die UI Elemente kommunizieren über Events mit dem
 GameManager.cs. Die zellen werden aus einem Prefab erzeugt.
